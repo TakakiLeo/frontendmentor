@@ -1,0 +1,36 @@
+[
+  {
+    "icone": "/assets/icon-reaction.svg",
+    "id": "2",
+    "nome": "Reaction",
+    "background": "#FFE7E4",
+    "text":"hsl(0, 100%, 67%)",
+    "conteudo":"80"
+  },
+  {
+    "icone": "/assets/icon-memory.svg",
+    "id": "1",
+    "nome": "Memory",
+    "background": "#FFF7E4",
+    "text":"hsl(39, 100%, 56%)",
+    "conteudo":"92"
+    
+  },
+  {
+    "icone": "/assets/icon-verbal.svg",
+    "id": "3",
+    "nome": "Verbal",
+    "background": "#E0FFFC",
+    "text":"hsl(166, 100%, 37%)",
+    "conteudo":"61"
+
+  },
+  {
+    "icone": "/assets/icon-visual.svg",
+    "id": "4",
+    "nome": "Visual",
+    "background": "#E9E9FF",
+    "text":"hsl(234, 85%, 45%)",
+    "conteudo":"72"
+  }
+]
